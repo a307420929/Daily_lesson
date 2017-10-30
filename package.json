@@ -1,0 +1,23 @@
+{
+  "name": "Daily_lesson",
+  "version": "1.0.0",
+  "description": "[TOC]\r ## Day 1 \r - (ajax接收遍历处理json格式数据)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a307420929/Daily_lesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a307420929/Daily_lesson/issues"
+  },
+  "homepage": "https://github.com/a307420929/Daily_lesson#readme",
+  "devDependencies": {
+    "jquery": "^3.2.1"
+  }
+}

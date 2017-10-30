@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/a307420929/Daily_lesson#readme",
   "devDependencies": {
-    "jquery": "^3.2.1"
+    "jquery": "^3.2.1",
+    "less": "^2.7.3"
   }
 }
